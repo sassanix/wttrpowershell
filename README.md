@@ -1,2 +1,2 @@
-# wttrpowershell
+# WTTRTerminal
 Weather in Powershell
