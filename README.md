@@ -1,6 +1,11 @@
 # 🌦️ WTTRTerminal
 Get Weather in Your Terminal by using wttr.in
 
+# Screenshot
+
+![image](https://github.com/user-attachments/assets/4ad31652-d315-4115-934a-4d08f9108f1d)
+
+
 ## 🪟 Windows Setup
 To edit the PowerShell profile, follow these steps:
 
